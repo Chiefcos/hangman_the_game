@@ -1,0 +1,8 @@
+.styling {
+  position: fixed;
+  top: 15%;
+  z-index: 12;
+  color: black;
+  text-shadow: 2px 2px grey;
+  background: rgba(255, 255, 255, 0.75);
+}
